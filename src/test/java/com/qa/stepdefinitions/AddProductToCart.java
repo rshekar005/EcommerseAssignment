@@ -28,8 +28,8 @@ public class AddProductToCart {
         dashbaordPage.searchProduct(arg0);
     }
 
-    @Then("Select a product and verify the product value as {int}")
-    public void select_a_product_and_verify_the_product_value_as(int arg0) {
+    @Then("Select a product and verify the product value")
+    public void select_a_product_and_verify_the_product_value() {
         dashbaordPage.getPriceAmountAndThenClick();
     }
 
@@ -41,8 +41,10 @@ public class AddProductToCart {
     @And("then checkout and verify the added product value")
     public void then_checkout_and_verify_the_added_product_value() throws InterruptedException {
         String amount = dashbaordPage.clickOnProceed();
+        Thread.sleep(2000);
         System.out.println("Total amount is " + amount);
         Assert.assertEquals("₹71,990.00",amount);
     }
+
 
 }
