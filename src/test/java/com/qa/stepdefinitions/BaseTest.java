@@ -16,7 +16,7 @@ public class BaseTest {
         DriverFactory.init_driver(ConfigReader.getValue(ConfigProperty.BROWSER));
     }
 
-    //@After
+    @After
     public void quitBrowser() {
         DriverFactory.getDriver().quit();
     }
