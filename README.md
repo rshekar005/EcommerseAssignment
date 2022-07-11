@@ -20,4 +20,4 @@ Clone the repository to your workspace.[Click here for git link](https://github.
 <p> Run through maven or run TestRunner class or run feature file as well. <p>
 
 Here it will take login details from Automation.xlsx excel sheet.
-Search for iPhone 13 product and travel through checkout page.
+Search for iPhone 13 product and traverse through checkout page.
