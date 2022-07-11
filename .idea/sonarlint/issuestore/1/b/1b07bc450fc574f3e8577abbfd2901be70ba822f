@@ -1,0 +1,31 @@
+
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿•öªùÿÿÿÿ
+n
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒB
+n
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒB
+K
+java:S1066"/Merge this if statement with the enclosing one.(ÑŠ¡áÿÿÿÿÿ
+s
+java:S1488!"]Immediately return this expression instead of assigning it to the temporary variable "sheet".(‡ê…„
+s
+java:S1488&"]Immediately return this expression instead of assigning it to the temporary variable "sheet".(ÛÎ¶ï
+·
+java:S1130"”Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.exc.InvalidFormatException' which is a subclass of 'java.io.IOException'.(ì€âáúÿÿÿÿ8’ÙöÂ0
+·
+java:S1130"”Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.exc.InvalidFormatException' which is a subclass of 'java.io.IOException'.(ì€âáúÿÿÿÿ8’ÙöÂ0
+·
+java:S1130 "”Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.exc.InvalidFormatException' which is a subclass of 'java.io.IOException'.(ÏÇÈ³úÿÿÿÿ8›ÙöÂ0
+²
+java:S1130%"”Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.exc.InvalidFormatException' which is a subclass of 'java.io.IOException'.(À±´8ÙöÂ0
+·
+java:S1130*"”Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.exc.InvalidFormatException' which is a subclass of 'java.io.IOException'.(øû´“ÿÿÿÿÿ8ŸÙöÂ0
+g
+java:S1871T"LThis branch's code block is the same as the block for the branch on line 76.(šÓŞúÿÿÿÿ
+g
+java:S1871R"LThis branch's code block is the same as the block for the branch on line 76.(•³í‹úÿÿÿÿ
+b
+java:S1871O"LThis branch's code block is the same as the block for the branch on line 76.(Ì‡Ûä
+m
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ø£Úóûÿÿÿÿ
