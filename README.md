@@ -1,8 +1,6 @@
 # EcommerseAssignment
 
 --------------
-**Rest assured is java library for testing Restful Web services. It can be used to test XML & JSON based web services.**
-
 Prerequisites : Java, IDE (Eclipse, IntelliJ, etc), Maven
 plugins : Cucumber plugin.
 
